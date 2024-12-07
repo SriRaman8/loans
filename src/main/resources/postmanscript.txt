@@ -1,0 +1,3 @@
+curl --location --request POST 'http://localhost:8081/api/create?mobileNumber=9876543210'
+
+curl --location 'http://localhost:8081/api/fetch?mobileNumber=9876543210'
